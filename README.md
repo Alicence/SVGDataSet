@@ -1,2 +1,2 @@
 # SVGDataSet
-A svg data set
+This dataset contains ** 11,259 ** SVG images and their corresponding PNG images. All images are sourced from the Pixabay website. The dataset provides a rich collection of vector graphics and bitmap images, making it highly suitable for research and applications in image processing, computer vision, machine learning, and deep learning. With this dataset, researchers and developers can conveniently conduct experiments and develop projects related to image conversion, image generation, image recognition, and more.
